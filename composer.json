@@ -1,0 +1,23 @@
+{
+  "name": "alex-le/magento2-review-summary",
+  "description": "Review Summary WebAPI",
+  "type": "magento2-module",
+  "authors": [
+    {
+      "name": "Alexander Reichardt <mail@alexander-reichardt.de>",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "~7.1.0|~7.2.0|~7.3.0",
+    "magento/module-review": ">=100.2.0"
+  },
+  "autoload": {
+    "files": [
+      "src/registration.php"
+    ],
+    "psr-4": {
+      "alexLE\\ReviewSummaryApi\\": "/src"
+    }
+  }
+}
