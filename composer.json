@@ -1,6 +1,6 @@
 {
   "name": "alex-le/magento2-review-summary",
-  "description": "Review Summary WebAPI",
+  "description": "Magento 2 Review Summary REST API",
   "type": "magento2-module",
   "authors": [
     {
