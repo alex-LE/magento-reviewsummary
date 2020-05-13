@@ -2,6 +2,7 @@
   "name": "alex-le/magento2-review-summary",
   "description": "Magento 2 Review Summary REST API",
   "type": "magento2-module",
+  "license": "MIT",
   "authors": [
     {
       "name": "Alexander Reichardt <mail@alexander-reichardt.de>",
