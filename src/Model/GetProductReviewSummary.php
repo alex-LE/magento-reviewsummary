@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace alexLE\ReviewSummaryApi\Model;
 
-use alexLE\ReviewsApi\Api\Data\SummaryInterfaceFactory;
+use alexLE\ReviewSummaryApi\Api\Data\SummaryInterfaceFactory;
 use alexLE\ReviewSummaryApi\Api\GetProductReviewSummaryInterface;
 use Magento\Catalog\Api\ProductRepositoryInterface;
 
