@@ -5,6 +5,7 @@ namespace alexLE\ReviewSummaryApi\Model;
 
 use alexLE\ReviewsApi\Api\Data\SummaryInterfaceFactory;
 use alexLE\ReviewSummaryApi\Api\GetProductReviewSummaryInterface;
+use Magento\Catalog\Api\ProductRepositoryInterface;
 
 /**
  * Class GetProductReviewSummary load product reviews summary by product sku
