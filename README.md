@@ -21,3 +21,12 @@ Use the following API Endpoint:
 | Endpoint | Request method |
 | ------------- | ------------- |
 | /V1/products/:sku/review-summary | GET |
+
+Response Example:
+
+```json
+{
+    "summary": 60,
+    "count": 3
+}
+```

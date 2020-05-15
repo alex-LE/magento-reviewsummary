@@ -14,7 +14,7 @@ interface GetProductReviewSummaryInterface
      * Get product review summary
      *
      * @param string $sku
-     * @return array
+     * @return alexLE\ReviewSummaryApi\Api\Data\SummaryInterface
      */
     public function execute(string $sku);
 }
